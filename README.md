@@ -3,7 +3,7 @@
 The crawler is part of a project for analyzing security data sources.
 
 The real project is saved on https://git.uibk.ac.at/c7031099/security_data_sources and is private.
-I merely made this site for the user agent information.
+This README is merely intended to give information about the crawler.
 
 ## Settings
 * Politeness delay: If Crawl-Delay is set in `robots.txt` then it is used. Alternatively, we use a politeness delay of 20 seconds.
