@@ -6,7 +6,7 @@ The real project is on https://git.uibk.ac.at/c7031099/security_data_sources and
 This README is merely intended to give information about the crawler.
 
 ## Settings
-* Politeness delay: If Crawl-Delay is set in `robots.txt` then it is used. Alternatively, we use a politeness delay of 20 seconds.
+* Politeness delay: Generally we use a politeness delay of 20 seconds unless you have another Crawl-Delay set in your `robots.txt`.
 * Underlying implementation: `Crawler4j` (https://github.com/yasserg/crawler4j)
 * Crawl binary content: off
 * Filter: css|js|bmp|gif|jpe?g|png|tiff?|mid|mp2|mp3|mp4|wav|avi|mov|mpeg|ram|m4v|pdf|rm|smil|wmv|swf|wma|zip|rar|gz
