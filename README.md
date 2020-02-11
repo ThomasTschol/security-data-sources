@@ -1,8 +1,8 @@
 # security-data-sources
 
-The crawler is part of a project for analyzing security data sources.
+The crawler is part of a project for analyzing security data sources. We only download and save the article in our database if a valid CVE identifier is contained in the content of the article.
 
-The real project is saved on https://git.uibk.ac.at/c7031099/security_data_sources and is private.
+The real project is on https://git.uibk.ac.at/c7031099/security_data_sources and is private.
 This README is merely intended to give information about the crawler.
 
 ## Settings
